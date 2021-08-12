@@ -8,7 +8,7 @@ This project consists of a replicable form component using "Material UI", develo
 
 ### 📱 Project link
 
-[PROJECT LINK](https://marcelopasquini-react-form-material-ui.netlify.app/)
+[PROJECT LINK](https://mpasquini-react-form-material-ui.netlify.app/)
 
 
 ### 📸 Screenshot
